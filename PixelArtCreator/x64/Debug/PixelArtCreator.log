@@ -1,0 +1,37 @@
+﻿  pixelArtMain.cpp
+c:\users\boxer\source\repos\pixelartcreator\pixelartcreator\pixelartmain.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\boxer\source\repos\pixelartcreator\pixelartcreator\pixelartmain.cpp(27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\boxer\source\repos\pixelartcreator\pixelartcreator\pixelartmain.cpp(74): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\boxer\source\repos\pixelartcreator\pixelartcreator\pixelartmain.cpp(107): warning C4244: 'argument': conversion from 'T' to 'sf::Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\boxer\source\repos\pixelartcreator\pixelartcreator\pixelartmain.cpp(112): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\boxer\source\repos\pixelartcreator\pixelartcreator\pixelartmain.cpp(115): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\boxer\source\repos\pixelartcreator\pixelartcreator\pixelartmain.cpp(116): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  PixelArtCreator.vcxproj -> C:\Users\boxer\source\repos\PixelArtCreator\x64\Debug\PixelArtCreator.exe

@@ -1,0 +1,40 @@
+﻿  pixelArtMain.cpp
+g:\programs\c++\sfml\products\pixelartcreator\pixelartcreator\pixelartmain.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+g:\programs\c++\sfml\products\pixelartcreator\pixelartcreator\pixelartmain.cpp(27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+g:\programs\c++\sfml\products\pixelartcreator\pixelartcreator\pixelartmain.cpp(74): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\programs\c++\sfml\products\pixelartcreator\pixelartcreator\pixelartmain.cpp(107): warning C4244: 'argument': conversion from 'T' to 'sf::Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+g:\programs\c++\sfml\products\pixelartcreator\pixelartcreator\pixelartmain.cpp(112): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+g:\programs\c++\sfml\products\pixelartcreator\pixelartcreator\pixelartmain.cpp(115): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+g:\programs\c++\sfml\products\pixelartcreator\pixelartcreator\pixelartmain.cpp(116): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating code
+  All 216 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PixelArtCreator.vcxproj -> G:\Programs\C++\SFML\Products\PixelArtCreator\x64\Release\PixelArtCreator.exe
