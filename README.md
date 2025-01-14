@@ -12,9 +12,9 @@ Unleash your creativity with the Pixel Art Drawing App, where every pixel become
 
 **Installation**
 1. Clone repository to machine
-   '''
+   ```
    git clone 'https://github.com/wcouture/PixelArtDrawer.git'
-   '''
+   ```
 3. Run installer located within DrawerInstaller/Release
 
 **Usage**
